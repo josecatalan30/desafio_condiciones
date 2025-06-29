@@ -1,5 +1,5 @@
 # desafio_condiciones
-En este desafío debí realizar 3 ejercicios utilizando HTML, CSS y JavaScript.
+En este desafío debí realizar 3 ejercicios utilizando HTML, CSS y JavaScript. Puedes revisar el resultado en el siguiente link: https://josecatalan30.github.io/desafio_condiciones/
 
 ## Objetivos
 Utilizar JavaScript y las funciones de manipular DOM, instruciones if, else y operadores lógicos.

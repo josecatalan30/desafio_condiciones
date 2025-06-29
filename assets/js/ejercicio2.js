@@ -11,7 +11,7 @@ verificar.addEventListener('click', () => {
     let total = a + b + c;
 
     if (total > 10) {
-        mensaje.textCnsajet = 'Llevas demasiados stickers';
+        mensaje.textContent = 'Llevas demasiados stickers';
     } else {
         mensaje.textContent = 'Llevas ' + total + ' stickers';
     }
